@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Models
+*.h5
+*.keras
+*.weights.h5
+models_saved/
+*.pb
+
+# Data
+data/
+*.h5
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Environment
+venv/
+env/
+.venv/
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Experiments
+experiments/
+logs/
+*.log
+*.csv
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Colab
+/content/
+/sample_data/
+drive/
